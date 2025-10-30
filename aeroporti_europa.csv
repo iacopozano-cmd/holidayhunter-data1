@@ -1,0 +1,59 @@
+iata,icao,name,city,country,alt_names
+FCO,LIRF,Rome Fiumicino,Rome,IT,Roma|Fiumicino|Leonardo da Vinci
+CIA,LIRA,Rome Ciampino,Rome,IT,Roma|Ciampino
+MXP,LIMC,Milan Malpensa,Milan,IT,Milano|Malpensa
+LIN,LIML,Milan Linate,Milan,IT,Milano|Linate
+BGY,LIME,Bergamo Orio al Serio,Bergamo,IT,Milano Bergamo|Orio al Serio
+VCE,LIPZ,Venice Marco Polo,Venice,IT,Venezia|Marco Polo
+TSF,LIPH,Treviso Antonio Canova,Treviso,IT,Treviso
+VRN,LIPX,Verona Villafranca,Verona,IT,Valerio Catullo|Verona
+BLQ,LIPE,Bologna Guglielmo Marconi,Bologna,IT,Guglielmo Marconi|Bologna
+FLR,LIRQ,Florence Peretola,Florence,IT,Firenze|Peretola|Amerigo Vespucci|A. Vespucci
+PSA,LIRP,Pisa Galileo Galilei,Pisa,IT,Pisa|Galileo Galilei
+GOA,LIMJ,Genoa Cristoforo Colombo,Genoa,IT,Genova|Cristoforo Colombo
+TRN,LIMF,Turin Caselle,Turin,IT,Torino|Caselle
+TRS,LIPQ,Trieste Friuli Venezia Giulia,Trieste,IT,Trieste
+NAP,LIRN,Naples Capodichino,Naples,IT,Napoli|Capodichino
+BRI,LIBD,Bari Karol Wojtyła,Bari,IT,Bari|Karol Wojtyla
+BDS,LIBR,Brindisi Salento,Brindisi,IT,Salento|Brindisi
+FOG,LIBF,Foggia Gino Lisa,Foggia,IT,Gino Lisa|Foggia
+PMO,LICJ,Palermo Falcone–Borsellino,Palermo,IT,Palermo|Punta Raisi|Falcone Borsellino
+TPS,LICT,Trapani Birgi,Trapani,IT,Trapani|Birgi|Vincenzo Florio
+CTA,LICC,Catania Fontanarossa,Catania,IT,Catania|Fontanarossa|Vincenzo Bellini
+REG,LICR,Reggio Calabria Tito Minniti,Reggio Calabria,IT,Reggio Calabria|Tito Minniti
+SUF,LICA,Lamezia Terme Sant'Eufemia,Lamezia Terme,IT,Sant'Eufemia|Lamezia
+CIY,LICB,Comiso Pio La Torre,Ragusa,IT,Comiso|Pio La Torre
+AHO,LIEA,Alghero Fertilia,Alghero,IT,Alghero|Fertilia|Riviera del Corallo
+CAG,LIEE,Cagliari Elmas,Cagliari,IT,Cagliari|Elmas|Mario Mameli
+OLB,LIEO,Olbia Costa Smeralda,Olbia,IT,Olbia|Costa Smeralda
+PMF,LIMP,Parma Giuseppe Verdi,Parma,IT,Parma|Giuseppe Verdi
+PEG,LIRZ,Perugia San Francesco d'Assisi,Perugia,IT,Perugia|San Francesco d'Assisi|Umbria
+AOI,LIPY,Ancona Falconara,Ancona,IT,Ancona|Falconara|Raffaello Sanzio
+RMI,LIPR,Rimini Federico Fellini,Rimini,IT,Rimini|Miramare|Federico Fellini
+BZO,LIPB,Bolzano,Bolzano,IT,Bozen|Bolzano
+FRL,LIPK,Forlì Luigi Ridolfi,Forlì,IT,Forlì|Luigi Ridolfi
+VBS,LIPO,Brescia Montichiari,Brescia,IT,Brescia|Montichiari|Gabriele D'Annunzio
+CUF,LIMZ,Cuneo Levaldigi,Cuneo,IT,Cuneo|Levaldigi
+PSR,LIBP,Pescara Abruzzo,Pescara,IT,Pescara|Abruzzo
+EBA,LIRJ,Elba Marina di Campo,Marina di Campo,IT,Isola d'Elba|Marina di Campo
+LMP,LICD,Lampedusa,Lampedusa,IT,Lampedusa
+PNL,LICG,Pantelleria,Pantelleria,IT,Pantelleria
+CRV,LIBC,Crotone Sant'Anna,Crotone,IT,Crotone|Sant'Anna
+LHR,EGLL,London Heathrow,London,GB,Londra|Heathrow
+LGW,EGKK,London Gatwick,London,GB,Londra|Gatwick
+LTN,EGGW,London Luton,London,GB,Londra|Luton
+STN,EGSS,London Stansted,London,GB,Londra|Stansted
+LCY,EGLC,London City,London,GB,Londra|City Airport
+MAN,EGCC,Manchester,Manchester,GB,Manchester
+BHX,EGBB,Birmingham,Birmingham,GB,Birmingham
+EDI,EGPH,Edinburgh,Edinburgh,GB,Edimburgo
+GLA,EGPF,Glasgow,Glasgow,GB,Glasgow
+BRS,EGGD,Bristol,Bristol,GB,Bristol
+LPL,EGGP,Liverpool John Lennon,Liverpool,GB,Liverpool
+LBA,EGNM,Leeds Bradford,Leeds,GB,Leeds|Bradford
+NCL,EGNT,Newcastle,Newcastle,GB,Newcastle
+BFS,EGAA,Belfast International,Belfast,GB,Belfast
+BHD,EGAC,Belfast City George Best,Belfast,GB,Belfast City|George Best
+EMA,EGNX,East Midlands,Nottingham,GB,East Midlands|Nottingham|Derby|Leicester
+ABZ,EGPD,Aberdeen,Aberdeen,GB,Aberdeen
+CWL,EGFF,Cardiff,Cardiff,GB,Cardiff
